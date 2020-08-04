@@ -1,0 +1,14 @@
+### IDEA ###
+.idea/*
+*.iml
+*/target/*
+*/*.iml
+
+### vscode ##
+*/*.project
+.settings/*
+*/.settings/*
+*/.classpath
+*/.factorypath
+.project
+.vscode/launch.json
